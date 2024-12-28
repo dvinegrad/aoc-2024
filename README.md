@@ -1,3 +1,3 @@
-# Advent of Code 2022
+# Advent of Code 2024
 
 This code might be a mess and I am sorry
